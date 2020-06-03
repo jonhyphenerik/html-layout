@@ -13,7 +13,7 @@ body {
 .main_content {
     width: 70%;
     height: 70vh;
-    background-color: #EFEFEF;
+    background-color: rgb(156, 134, 134);
     margin: 0 auto;
 }
 
