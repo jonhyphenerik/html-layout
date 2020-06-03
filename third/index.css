@@ -1,0 +1,50 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.stripe {
+    width: auto;
+    height: 15vh;
+    margin: 0;
+}
+
+header {
+    background-color: #d8d8d8;
+    height: 10vh;
+}
+
+.stamp {
+    height: 8vh;
+    width: 8vh;
+    margin-top: 1vh;
+    margin-left: 1vh;
+    background-color: #4A90E2;
+}
+
+.stripe-text {
+    margin: 25px;
+    
+}
+#white {
+    height: 30vh;
+    background-color: whitesmoke;
+    padding: 30px;
+}
+
+#blue {
+  background-color: #4A90E2;
+  
+}
+
+#seafoam {
+  background-color: #50E3C2;
+}
+
+#green {
+  background-color: #B8E986;
+}
+
+#gold {
+  background-color: #F8E71C;
+}
